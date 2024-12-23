@@ -73,7 +73,7 @@
         z-index: -1;
     }
     .navbar .menu_nav .nav-item.dropdown.show:after,.navbar .menu_nav .nav-item.dropdown:focus:after{
-        color: #52c5fd;
+        color: #FE0000;
         outline: none;
     }
 	.navbar .menu_nav .nav-item + li {

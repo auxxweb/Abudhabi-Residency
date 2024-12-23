@@ -349,7 +349,7 @@ button:focus {
 }
 
 .navbar .menu_nav .nav-item:hover .nav-link, .navbar .menu_nav .nav-item.active .nav-link {
-  color: #52c5fd;
+  color: #FE0000;
 }
 
 .navbar .menu_nav .nav-item.submenu {
@@ -436,7 +436,7 @@ button:focus {
 
 .navbar .menu_nav .nav-item.submenu ul .nav-item:hover .nav-link {
   background: #f0f0f0;
-  color: #52c5fd;
+  color: #FE0000;
 }
 
 @media (min-width: 992px) {
@@ -756,7 +756,7 @@ button:focus {
 .accomodation_item h5 {
   font-size: 24px;
   line-height: 28px;
-  color: #52c5fd;
+  color: #FE0000;
   font-weight: 600;
   margin-bottom: 0px;
 }
@@ -873,7 +873,7 @@ button:focus {
 }
 
 .testimonial_slider .testimonial_item .sec_h4:hover {
-  color: #52c5fd;
+  color: #FE0000;
 }
 
 .testimonial_slider .testimonial_item .star a {
@@ -931,7 +931,7 @@ button:focus {
 }
 
 .single-recent-blog-post .details .sec_h4:hover {
-  color: #52c5fd;
+  color: #FE0000;
 }
 
 .single-recent-blog-post .date {
@@ -1043,7 +1043,7 @@ button:focus {
 }
 
 .blog_info .post_tag a:hover {
-  color: #52c5fd;
+  color: #FE0000;
 }
 
 .blog_info .blog_meta li a {
@@ -1064,7 +1064,7 @@ button:focus {
 }
 
 .blog_info .blog_meta li a:hover {
-  color: #52c5fd;
+  color: #FE0000;
 }
 
 .blog_details {
@@ -1082,7 +1082,7 @@ button:focus {
 }
 
 .blog_details h2:hover {
-  color: #52c5fd;
+  color: #FE0000;
 }
 
 .blog_details p {
@@ -1197,7 +1197,7 @@ button:focus {
 }
 
 .blog_right_sidebar .author_widget .social_icon a:hover {
-  color: #52c5fd;
+  color: #FE0000;
 }
 
 .blog_right_sidebar .popular_post_widget .post_item .media-body {
@@ -1220,7 +1220,7 @@ button:focus {
 }
 
 .blog_right_sidebar .popular_post_widget .post_item .media-body h3:hover {
-  color: #52c5fd;
+  color: #FE0000;
 }
 
 .blog_right_sidebar .popular_post_widget .post_item .media-body p {
@@ -1256,11 +1256,11 @@ button:focus {
 }
 
 .blog_right_sidebar .post_category_widget .cat-list li:hover {
-  border-color: #52c5fd;
+  border-color: #FE0000;
 }
 
 .blog_right_sidebar .post_category_widget .cat-list li:hover a {
-  color: #52c5fd;
+  color: #FE0000;
 }
 
 .blog_right_sidebar .newsletter_widget {
